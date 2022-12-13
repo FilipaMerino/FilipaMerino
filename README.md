@@ -6,8 +6,9 @@ I started learning code in my spare time, and I found it so enjoyable that I enr
 I'm currently learning JavaScript and React 🎨
 
 You can reach me at: 
+
+
 📫 filipaam@outlook.com
 
-OR
 
 📲 +351 964 847 001
