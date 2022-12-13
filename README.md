@@ -7,4 +7,7 @@ I'm currently learning JavaScript and React 🎨
 
 You can reach me at: 
 📫 filipaam@outlook.com
+
+OR
+
 📲 +351 964 847 001
