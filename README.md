@@ -1,14 +1,10 @@
-Hi everyone 👋🏼
-I’m @FilipaMerino and I used to be a neuropsychologist 🧠 Crazy, right?
+**Frontend developer**, puzzle-solver, and storyteller in code.
+I build responsive, human-centered interfaces with **React**, **Next.js**, and **TypeScript**, guided by a passion for clarity and attention to detail.
+Outside of work, I recharge through photography, a good book, or a new Sims expansion pack.
+Always exploring, always refining, I’m **open to new frontend roles** and **collaborations**.
+📫 Reach me at filipaamerino@gmail.com or connect on https://www.linkedin.com/in/filipamerino/
 
-I started learning code in my spare time, and I found it so enjoyable that I enrolled at Le Wagon Web Development Bootcamp to become a Full Stack or Front-end Developer 👩🏻‍💻. 
-
-I'm currently learning React 🎨
-
-You can reach me at: 
-
-
-📫 filipaam@outlook.com
-
-
-📲 +351 964 847 001
+**What I’m working on:**
+• Improving my TypeScript fluency
+• Experimenting with Next.js server actions
+• Building my photography portfolio site
