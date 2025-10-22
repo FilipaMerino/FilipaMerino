@@ -4,7 +4,7 @@ Outside of work, I recharge through photography, a good book, or a new Sims expa
 Always exploring, always refining, I’m **open to new frontend roles** and **collaborations**.
 📫 Reach me at filipaamerino@gmail.com or connect on https://www.linkedin.com/in/filipamerino/
 
-**What I’m working on:**
+**What I’m working on:**<br>
 • Improving my TypeScript fluency <br>
 • Experimenting with Next.js server actions <br>
 • Building my photography portfolio site <br>
