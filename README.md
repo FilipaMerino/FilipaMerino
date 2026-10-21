@@ -1,12 +1,6 @@
 **Frontend Developer**
 
-**Frontend developer**, puzzle-solver, and storyteller in code.
-I build responsive, human-centered interfaces with **React**, **Next.js**, and **TypeScript**, guided by a passion for clarity and attention to detail.
-Outside of work, I recharge through photography, a good book, or a new Sims expansion pack.
-Always exploring, always refining, I’m **open to new frontend roles** and **collaborations**.
-📫 Reach me at filipaamerino@gmail.com or connect on https://www.linkedin.com/in/filipamerino/
+From a teenage hi5 vibe coder to a frontend developer, who loves to create web apps with **React** and **Next.js**.
+Apart from my love for coding and learning, I recharge through exercise, photography, a good book or a full-on The Sims marathon. 
 
-**What I’m working on:**<br>
-• Improving my TypeScript fluency <br>
-• Experimenting with Next.js server actions <br>
-• Building my photography portfolio site <br>
+📫 Reach me at filipaamerino@gmail.com or connect on https://www.linkedin.com/in/filipamerino/
